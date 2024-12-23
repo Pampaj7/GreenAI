@@ -68,3 +68,12 @@ This is the root directory of the repository. The directory is structured as fol
         ├── python                      Folder containing python files
         ├── R                           Folder containing R files
         └── Utils                       Folder containing a .py used to preprocess the datasets
+
+## Compilers Versions
+
+Java version "20.0.1" 2023-04-18 \
+Gcc version Apple clang version 16.0.0 (clang-1600.0.26.4) \
+Maven version Apache Maven 3.9.9 \
+Python version 3.10.14 \
+R version 4.3.2 \
+Matlab Version '24.1.0.2653294 (R2024a)
